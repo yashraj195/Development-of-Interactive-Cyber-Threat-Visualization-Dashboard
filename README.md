@@ -21,7 +21,7 @@ It simulates a live cyber threat intelligence monitoring platform with interacti
 
 ## 📊 Project Presentation
 
-[Presentation.pptx](https://github.com/user-attachments/files/25607367/Presentation.pptx)
+[Presentation.pptx](https://github.com/yashraj195/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/blob/main/Mentor%20Mr.%20Vivek.pptx)
 
 
 ---
